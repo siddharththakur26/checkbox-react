@@ -1,0 +1,7 @@
+input[type="checkbox"].labelColor + label {
+     color: #fffff;
+}
+
+input[type="checkbox"].labelColor:checked + label {
+    color: #a30505;
+}
